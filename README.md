@@ -90,7 +90,7 @@ Room-booking REST API — JWT auth, Zod validation, booking-conflict detection.
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mossab28&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=ff4fa3&icon_color=ff4fa3&text_color=c9d1d9&bg_color=0d1117" alt="stats"/>
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Mossab28&hide_border=true&background=0d1117&ring=ff4fa3&fire=ff4fa3&currStreakLabel=ff4fa3&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mossab28&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="trophies"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mossab28&bg_color=0d1117&color=ff4fa3&line=ff4fa3&point=ffffff&area_color=ff4fa3&area=true&hide_border=true&custom_title=Contribution%20activity" width="95%" alt="activity graph"/>
 
 </div>
 
