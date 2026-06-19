@@ -26,7 +26,7 @@
 ### 🩷 [sweep](https://github.com/Mossab28/sweep)
 AI-powered file cleanup & organizer **CLI**. Audits your whole computer, ranks the clutter, and tidies it with Claude — dry-run, full undo, no real deletion.
 <br/><br/>
-`npx @mossab/sweep` · **open source**
+`npx @mossab28/sweep` · **open source**
 <br/><br/>
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
