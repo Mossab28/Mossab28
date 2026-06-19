@@ -1,46 +1,110 @@
-# Moss'Ab Mirande-Ney
+<!-- Moss'Ab Mirande-Ney · GitHub profile -->
 
-Engineering student at UTT (Troyes) — Networks & Telecommunications.
-Building full-stack apps, embedded systems, and security tools.
+<div align="center">
 
-Paris, France
-[Portfolio](https://mossabmirandeney.fr) · [LinkedIn](https://www.linkedin.com/in/moss-ab-mirande-ney-1a7abb205/) · mossab.mirandeney1@gmail.com
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7a1f48,100:ff4fa3&height=190&section=header&text=Moss'Ab%20Mirande-Ney&fontColor=ffffff&fontSize=40&fontAlignY=36&desc=I%20build%20AI%20tools%2C%20security%20products%20%26%20full-stack%20apps&descAlignY=58&descSize=16" width="100%" alt="header"/>
 
----
+<a href="https://www.linkedin.com/in/moss-ab-mirande-ney-1a7abb205/"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=FF4FA3&center=true&vCenter=true&width=620&lines=Engineering+student+%40+UTT+Troyes;Shipping+AI-powered+developer+tools;Autonomous+security+%2B+pentesting;Full-stack%2C+embedded+%26+everything+between" alt="typing"/></a>
 
-### Projects
+<br/>
 
-**[PwnAI](https://pwn-ai.com)** — Autonomous pentesting SaaS. AI agent orchestrates 50+ security tools, chains exploits, generates reports. Next.js, Prisma, PostgreSQL, BullMQ, Docker.
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff4fa3?style=for-the-badge&logo=hyperledger&logoColor=white)](https://mossabmirandeney.fr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moss-ab-mirande-ney-1a7abb205/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mossab.mirandeney1@gmail.com)
+[![Location](https://img.shields.io/badge/Paris,%20France-0d1117?style=for-the-badge&logo=googlemaps&logoColor=ff4fa3)](#)
 
-**VTC Ride-Hailing App** — Full-stack platform for a transport company (Transport de la Grande Mare). Flutter iOS app + Node.js/Express/MongoDB backend. JWT auth with 7 roles, real-time GPS via Socket.IO, automated dispatch, invoicing, admin dashboard. Beta Sept 2026.
+</div>
 
-**[BookShelf API](https://mossabmirandeney.fr/bookshelf)** — Room booking REST API. Node.js, Express, TypeScript, PostgreSQL, Prisma. JWT auth, Zod validation, booking conflict detection. [Source](https://github.com/Mossab28/bookshelf-api)
+<br/>
 
-**[Néréides UTT](https://nereides.utt.fr)** — Hydrogen boat for Monaco Energy Boat Challenge. Telemetry lead + head of Embedded Systems. ESP32 sensors → MQTT → InfluxDB → Grafana. MEBC 2025: 2nd French team, 11th worldwide.
+## 🚀 &nbsp;What I'm building
 
-**[Multiplex Auto](https://github.com/Mossab28/multiplexauto)** — Showcase website for a car tinting garage. Interactive price simulator. React, Vite, Tailwind.
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🩷 [sweep](https://github.com/Mossab28/sweep)
+AI-powered file cleanup & organizer **CLI**. Audits your whole computer, ranks the clutter, and tidies it with Claude — dry-run, full undo, no real deletion.
+<br/><br/>
+`npx @mossab/sweep` · **open source**
+<br/><br/>
 
-### Stack
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node](https://img.shields.io/badge/-Node-339933?style=flat-square&logo=node.js&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
-**Backend:** Node.js, Express, FastAPI, Flask
-**Frontend:** React, Next.js, Flutter
-**Databases:** PostgreSQL, MongoDB, MySQL, InfluxDB
-**Systems:** Linux, Docker, MQTT, embedded (ESP32)
-**Networking:** TCP/IP, DNS, VLAN, routing, Wireshark
-**Languages:** Python, JavaScript/TypeScript, Dart
+</td>
+<td width="50%" valign="top">
 
----
+### 🛡️ IntrudR
+Autonomous **pentesting SaaS**. An AI agent orchestrates 50+ security tools, chains exploits, and writes the report — a security scan on every pull request.
+<br/><br/>
+[intrudr-action →](https://github.com/Mossab28/intrudr-action)
+<br/><br/>
 
-### Education
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-UTT — Engineering degree, Networks & Telecommunications (2022–2027)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-Certifications: English C1 (Linguaskill) · Python (freeCodeCamp) · Data Engineering & ML (HI! Paris / Polytechnique / Télécom Paris)
+### ⛵ [Néréides UTT](https://nereides.utt.fr)
+Hydrogen boat for the Monaco Energy Boat Challenge. Telemetry lead & head of Embedded Systems — ESP32 → MQTT → InfluxDB → Grafana.
+<br/><br/>
+🏆 **MEBC 2025 — 2nd French team · 11th worldwide**
 
----
+</td>
+<td width="50%" valign="top">
 
-### Languages
+### 📚 [BookShelf API](https://mossabmirandeney.fr/bookshelf)
+Room-booking REST API — JWT auth, Zod validation, booking-conflict detection.
+<br/><br/>
+[Source →](https://github.com/Mossab28/bookshelf-api) · also building a **VTC ride-hailing app** (Flutter + Node, real-time GPS dispatch)
 
-French (native) · Arabic (native) · English (C1) · Chinese (B1)
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🧰 &nbsp;Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,nextjs,react,flutter,fastapi,flask,postgres,mongodb,mysql,prisma,docker,linux,tailwind&theme=dark" alt="stack"/>
+
+<sub><b>Networking</b> · TCP/IP · DNS · VLAN · routing · Wireshark &nbsp;|&nbsp; <b>Systems</b> · Linux · Docker · MQTT · ESP32 embedded</sub>
+
+</div>
+
+<br/>
+
+## 📊 &nbsp;By the numbers
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mossab28&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=ff4fa3&icon_color=ff4fa3&text_color=c9d1d9&bg_color=0d1117" alt="stats"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Mossab28&hide_border=true&background=0d1117&ring=ff4fa3&fire=ff4fa3&currStreakLabel=ff4fa3&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Mossab28&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="trophies"/>
+
+</div>
+
+<br/>
+
+## 🎓 &nbsp;Education & languages
+
+**UTT** — Engineering degree, Networks & Telecommunications · 2022–2027
+<sub>Certs: English C1 (Linguaskill) · Python (freeCodeCamp) · Data Engineering & ML (HI! Paris / Polytechnique / Télécom Paris)</sub>
+
+🇫🇷 French · 🇸🇦 Arabic <sub>native</sub> &nbsp;|&nbsp; 🇬🇧 English <sub>C1</sub> &nbsp;|&nbsp; 🇨🇳 Chinese <sub>B1</sub>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4fa3,50:7a1f48,100:0d1117&height=120&section=footer" width="100%" alt="footer"/>
+
+</div>
